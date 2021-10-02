@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Torch
+  - Enemy
+  - Light
+  - Key
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Player
+  - Enemy
+  - Light
+  - Void
+  - Item
+  - Death
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2962388295
+    locked: 0
+  - name: Ground
+    uniqueID: 2440377293
+    locked: 0
+  - name: Light
+    uniqueID: 2353134643
+    locked: 0
+  - name: Character
+    uniqueID: 2147339925
+    locked: 0
+  - name: Item
+    uniqueID: 3769807695
+    locked: 0
+  - name: Foreground
+    uniqueID: 508396775
+    locked: 0
+  - name: UI
+    uniqueID: 3906932913
+    locked: 0
