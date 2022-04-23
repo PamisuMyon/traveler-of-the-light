@@ -78,7 +78,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Program: 7Pinned\nGraphics: Egor Dorichev  7Pinned\nMusic: Aural Space\nSound
+  m_Text: "Program: Pamisu\nGraphics: Egor Dorichev  Pamisu\nMusic: Aural Space\nSound
     Effects: Zero Rare (Levi Moore) \nFont: Daniel Linssen"
 --- !u!1 &7554357401671562249
 GameObject:
@@ -158,7 +158,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 0.8
-  m_Text: 'A game by 7Pinned.
+  m_Text: 'A game by Pamisu.
 
 '
 --- !u!1 &7554357401703559019

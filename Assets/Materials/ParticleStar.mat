@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: ParticleStar
-  m_Shader: {fileID: -6465566751694194690, guid: 4a6264cfa36d84144b0b930990b18a20, type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: b71faf4e236420040b2d79df5af829d3, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -20,6 +20,14 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - Texture2D_799755FA:
+        m_Texture: {fileID: 2800000, guid: 3d05be6b21daa0140bed57787e44c394, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_d49fb56fbccc4f439a1c21c05dad2829:
+        m_Texture: {fileID: 2800000, guid: 3d05be6b21daa0140bed57787e44c394, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
         m_Texture: {fileID: 2800000, guid: 3d05be6b21daa0140bed57787e44c394, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
@@ -38,4 +46,6 @@ Material:
     m_Floats: []
     m_Colors:
     - Color_2320D425: {r: 4.594794, g: 4.594794, b: 4.594794, a: 0.2}
+    - Color_b44e5e8a876f4658b6b6d10940aa3063: {r: 4.541205, g: 4.541205, b: 4.541205, a: 0.3921569}
+    - _TintColor: {r: 4.541205, g: 4.541205, b: 4.541205, a: 0.3921569}
   m_BuildTextureStacks: []
