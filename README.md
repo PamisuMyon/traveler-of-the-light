@@ -1,5 +1,5 @@
 # Traveler of the Light
-Source code of game demo 'Traveler of the Light'.
+Source code of game demo [Traveler of the Light](https://pamisu.itch.io/traveler-of-the-light).
 
 ## Screenshots
 ![](https://i.loli.net/2021/10/01/5uoplsJ8NMVdP6a.gif)
